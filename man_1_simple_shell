@@ -1,4 +1,4 @@
-.TH SIMPLE_SHELL 1 "3 November 2021" "1.0" "custom man page"
+.TH SIMPLE_SHELL 1 "5 November 2022" "1.0" "custom man page"
 .SH NAME
 .B Simple Shell
 - command language interpreter
@@ -98,4 +98,4 @@ Bugs...
 .SH SEE ALSO
 .I bash(1), sh(1), ksh(1), csh(1)
 .SH AUTHORS
-Eric Gory Rukevwe and Patch Osodo
+Patch Osodo and Jackson Mwangi
